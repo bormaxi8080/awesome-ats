@@ -330,7 +330,7 @@ Site: https://www.lever.co/
 
 Hire the right candidates faster with an easy recruiting solution and powerful insights from LinkedIn’s active community.
 
-Site: htt ps://business.linkedin.com/talent-solutions/recruiter
+Site: https://business.linkedin.com/talent-solutions/recruiter
 
 ### Manatal
 
@@ -446,13 +446,15 @@ Site: https://www.workday.com/en-us/products/talent-management/talent-acquisitio
 
 ### Zoho Recruit
 
-Site: 
+Zoho Recruit offers a powerful ATS and CRM in a single recruitment platform. With scalability, customization, and remote hiring tools, Recruit has everything your staffing agency or internal HR team needs to match the right candidate to the right role.
+
+Site: https://www.zoho.com/recruit/
 
 ----
 
 ### *** Specific platforms:
 
-### E-Staff (Russia only)
+### E-Staff (Russia only, outdated)
 
 Site: https://e-staff.ru/
 
@@ -463,6 +465,10 @@ Site: https://friend.work/
 ### Potok (Russia only)
 
 Site: https://talenttech.ru/potok/
+
+### SberPodbor (Russia only, unsafe!)
+
+Site: https://sberpodbor.ru/
 
 ### Talantix (Russia only, unsafe!)
 
